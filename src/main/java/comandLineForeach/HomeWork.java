@@ -1,4 +1,4 @@
-package comandLine;
+package comandLineForeach;
 
 import java.util.Arrays;
 import java.util.Scanner;
