@@ -31,7 +31,7 @@ public class ArrayListSorted {
         String five = "C";
         String six = "Banana";
         String seven = "One";
-        abc(one,two, three, four, five, six, seven);
+        //abc(one,two, three, four, five, six, seven);
+        ArrayList<String> arraylist = abc(one,two, three, four, five, six, seven);
     }
-
 }
