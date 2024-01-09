@@ -1,6 +1,6 @@
 package overriding_hiding_final;
 
-public class ReferensDataType {
+public class ReferenceDataType {
     public static void main(String[] args) {
         Doctor d = new Doctor();
         Teacher t = new Teacher();
@@ -19,7 +19,7 @@ public class ReferensDataType {
         //Если хирург является наследником доктора, а значит и внуком имплоии,то:
         Employee emp4 = new Xirurg();
         Xirurg x = new Xirurg();
-        Doctor doctorXorurg = new Xirurg();
+        Doctor doctorXirurg = new Xirurg();
 
         /**
          Компилятор всегда смотрит на тип данных переменной объекта
@@ -81,7 +81,7 @@ class Employee {
 }
 
 class Doctor extends Employee{
-    void lechit(){
+   public void lechit(){
         System.out.println("Lechit");
     }
 }
