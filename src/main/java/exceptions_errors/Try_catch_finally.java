@@ -23,6 +23,12 @@ public class Try_catch_finally {
      и исправить
      общие типа catch(Exception e) лучше не писать!!!
 
+     !!! finally в методах
+     finally выполняется всегда и первым (если мы пишем его в методе), а
+     потом уже выполняется try or catch
+     поэтому если в методе есть return в блоке finally, то он будет выполняться всегда,
+     остальные return не нужны
+
      */
 
     public static void main(String[] args) {
