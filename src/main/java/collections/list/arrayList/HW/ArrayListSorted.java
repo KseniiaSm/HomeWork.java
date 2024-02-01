@@ -1,4 +1,4 @@
-package arrayList_Collections.HW;
+package collections.list.arrayList.HW;
 import java.util.ArrayList;
 import java.util.Collections;
 

@@ -1,11 +1,11 @@
-package arrayList_Collections;
+package collections.list.arrayList;
 
 import java.util.*;
 
 /*
 необходимо импортировать пакет для использования списочного массива
  */
-public class ArrayListTest {
+public class ArrayListMethods {
     /**
      * ArrayList - списочный массив (также имеет нумерацию элементов и элементы могут повторяться
      * Массив - который может изменять свою длину
@@ -275,31 +275,7 @@ public class ArrayListTest {
         System.out.println(18);
         System.out.println(Arrays.mismatch(array1, array2));
         System.out.println(Arrays.mismatch(array3, array4));
-
-
-        /** Iterators (Итераторы)
-         * с помощью них мы можем пробежаться по элементам листа
-         * для этого необходимо импортировать:
-         * import java.util.Iterator;
-         */
-
-        System.out.println();
-        System.out.println("Iterators");
-        Iterator<String> it = list15.iterator();
-        while (it.hasNext()) {
-            System.out.println(it.next());
-        }
-        //Вывели элементы аррейлиста на экран
-
-        //C помощью итератора можно удалить элементы
-        while (it.hasNext()) {
-            it.next();
-            it.remove();
-        }
-
-
     }
-
 }
 
 class Car {
