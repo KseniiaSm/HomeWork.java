@@ -14,6 +14,11 @@ public class ArrayListMethods {
      * <p>
      * ArrayList можно создать так:
      * ArrayList <DataType> list1 = new ArrayList <DataType>();
+
+     ArrayList почти всегда лучше использовать по-сравнению с LinkedList,
+     если нужно удалять или добавлять элементы в начало листа,то
+     только тогда лучше использовать линкед лист !!!
+     а если удалять или добавлять в конец ArreyList элементы, то это будет быстро
      */
     public static void main(String[] args) {
         /**
