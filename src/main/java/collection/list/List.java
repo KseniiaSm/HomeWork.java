@@ -1,5 +1,7 @@
 package collection.list;
 
+import java.util.Stack;
+
 public class List {
     /**
 
@@ -24,5 +26,11 @@ public class List {
      То же самое, что и ArrayList, но для работы с многопоточностью
      Устаревший, очень медленный
 
+     Stack - не рекомендуется использовать
+     Тоже устаревший
+     Stack использует принцип LIFO (Last in first out) -
+     (принцип тарелок, какую последнюю в стопку сложил, ту первой и возьмешь)
+
      */
+
 }
