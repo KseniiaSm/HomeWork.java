@@ -1,4 +1,4 @@
-package collections;
+package collection;
 
 public class Basic_information {
 /**            Иерархия коллекций
