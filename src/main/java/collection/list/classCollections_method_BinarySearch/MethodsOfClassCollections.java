@@ -1,4 +1,4 @@
-package collection.ClassCollections_method_BinarySearch;
+package collection.list.classCollections_method_BinarySearch;
 
 import java.util.ArrayList;
 import java.util.Collections;

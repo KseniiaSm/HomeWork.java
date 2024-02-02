@@ -1,4 +1,4 @@
-package collection.Big_O_notation;
+package collection.list.big_O_notation;
 
 public class Big_O_notation {
     /**
