@@ -48,7 +48,6 @@ public class InterfacePredicate {
          sortAge.or(sortCours)
          3.Противоположные условия
          sortAge.negate()
-
          */
     }
 }

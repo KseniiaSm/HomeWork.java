@@ -13,7 +13,6 @@ public class Employee {
         this.department = department;
         this.salary = salary;
     }
-
 }
 
 class TestEmployee {
@@ -62,8 +61,6 @@ class TestEmployee {
             return e.name.equals(e.department);
         });
     }
-
-
 }
 
 
