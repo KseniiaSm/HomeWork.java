@@ -1,8 +1,7 @@
-package stream;
+package stream.methods;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 class Method_filter {

@@ -1,4 +1,4 @@
-package stream;
+package stream.methods;
 
 public class Student {
     private String name;

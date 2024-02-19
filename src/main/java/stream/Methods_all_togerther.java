@@ -1,9 +1,10 @@
 package stream;
 
+import stream.methods.Student;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 //Как использовать методы стрима вместе???
 public class Methods_all_togerther {
