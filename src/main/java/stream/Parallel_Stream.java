@@ -1,4 +1,4 @@
-package stream.methods;
+package stream;
 
 import java.util.ArrayList;
 import java.util.Date;

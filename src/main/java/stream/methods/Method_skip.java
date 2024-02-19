@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Method_skip {
     /**
-     Skip - пропускает первые n элементов стрима
+     skip - пропускает первые n элементов стрима
 
      intermediate (промежуточный)
      */

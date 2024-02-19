@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Method_sorted {
-    //метод для сортировки
+    //sorted - метод для сортировки
     public static void main(String[] args) {
         int[] array = {3, 100, 2, 33, 10};
         System.out.print(Arrays.toString(array));

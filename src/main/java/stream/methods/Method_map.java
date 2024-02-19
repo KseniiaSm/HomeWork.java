@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Method_map {
-    /** map() метод
+    /** map() метод - совершает операции с каждым элементом коллекции
      list.stream().map()
      он берет каждый из элементов коллекции или массива,
      потом лямбда выражения изменяет каждый из элементов

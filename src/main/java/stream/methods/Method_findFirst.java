@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Method_findFirst {
-    /** Method_findFirst - метод возвращает первый элемент стрима
+    /**
+     findFirst - метод возвращает первый элемент стрима
 
      (промежуточный метод)
      */

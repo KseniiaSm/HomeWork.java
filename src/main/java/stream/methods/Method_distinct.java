@@ -3,7 +3,7 @@ package stream.methods;
 import java.util.stream.Stream;
 
 public class Method_distinct {
-    //Distinct - проверяет элементы с помощью метода equals() и
+    // distinct - проверяет элементы с помощью метода equals() и
     // возвращает стрим уникальных элементов
 
     public static void main(String[] args) {

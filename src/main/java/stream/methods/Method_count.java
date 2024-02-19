@@ -3,7 +3,7 @@ package stream.methods;
 import java.util.stream.Stream;
 
 public class Method_count {
-    //count - считает количество элментов в стреми. Возвращает тип данных - long
+    //count - считает количество элментов в стриме. Возвращает тип данных - long
     //count - терминальный метод (конечный), после него нельзя промежуточные вызывать
 
     public static void main(String[] args) {
